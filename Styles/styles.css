@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:cadetblue;
+    background-color:bisque;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(0, 139, 139);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /*font-weight: bold;*/
+}
+a:visited {
+    color: blue;
+}
+.bold {
+    font-weight: bold;
+}
+
+.homebg {
+    background-image: url('WWBackground.png');
+    background-position: top right;
+}
+
+.box1 {
+    /*border-width: 1px;
+    border-style: solid;
+    border-color: cornflowerblue;
+
+    border: 1px solid red;
+}
+
+.box2 {
+    padding: 5px;
+
+}
+
+.box3 {
+    margin: 50px;*/
+
+}
